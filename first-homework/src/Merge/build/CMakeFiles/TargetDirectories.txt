@@ -1,0 +1,3 @@
+/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/src/Merge/build/CMakeFiles/tracker.dir
+/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/src/Merge/build/CMakeFiles/edit_cache.dir
+/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/src/Merge/build/CMakeFiles/rebuild_cache.dir
