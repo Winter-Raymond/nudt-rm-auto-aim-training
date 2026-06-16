@@ -1,0 +1,32 @@
+{
+    "path": {
+        "input_video": "../../first-homework.mp4",
+        "output_video": "../output/track.mp4",
+        "output_csv": "../output/frame_speed.csv"
+    },
+    "camera": {
+        "camera_matrix": [[1000,0,320],[0,1000,240],[0,0,1]],
+        "dist_coeffs": [0,0,0,0],
+        "ball_radius": 0.025
+    },
+    "color_detect": {
+        "lower_green": [35,40,40],
+        "upper_green": [85,255,255],
+        "morph_kernel_size": 3,
+        "min_contour_area": 50
+    },
+    "kalman": {
+        "process_noise": 0.04,
+        "measurement_noise": 0.4,
+        "max_lost_frame": 12
+    },
+    "visual": {
+        "speed_scale": 2.5,
+        "show_track_line": true,
+        "track_line_length": 30
+    },
+    "roi_margin": {
+        "margin_w_ratio": 0.05,
+        "margin_h_ratio": 0.05
+    }
+}

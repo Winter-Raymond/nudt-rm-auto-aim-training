@@ -1,3 +1,0 @@
-/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/Zhang-Qiheng/cpp/build/CMakeFiles/ball_track.dir
-/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/Zhang-Qiheng/cpp/build/CMakeFiles/edit_cache.dir
-/home/lify/Documents/Competition/nudt-rm-auto-aim-training/first-homework/Zhang-Qiheng/cpp/build/CMakeFiles/rebuild_cache.dir
