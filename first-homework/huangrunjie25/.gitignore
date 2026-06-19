@@ -1,0 +1,43 @@
+# 1. CMake构建产物
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# 2. 编译生成的可执行文件
+ball_tracker
+main
+*.out
+*.exe
+
+# 3. 媒体输出文件
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# 4. 系统/编辑器缓存
+# Linux/Ubuntu
+.DS_Store
+*~
+*.swp
+*.swo
+# VSCode
+.vscode/
+.idea/
+*.code-workspace
+# Qt Creator
+*.user
+*.pro.user
+
+# 5. 日志、临时文件
+*.log
+tmp/
+temp/
+*.bak
